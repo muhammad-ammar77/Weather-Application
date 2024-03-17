@@ -1,1 +1,1 @@
-Weather web application using weather api, Html, CSS, Javascript
+Weather web application using weather API, Html, CSS, Javascript
